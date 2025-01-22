@@ -1,4 +1,4 @@
-package np.com.example.realtimeweather.api
+package np.com.example.personalprojectapp.api
 
 import retrofit2.Response
 import retrofit2.http.GET

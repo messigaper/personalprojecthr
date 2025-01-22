@@ -1,4 +1,4 @@
-package np.com.example.realtimeweather
+package np.com.example.personalprojectapp
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package np.com.example.realtimeweather.api
+package np.com.example.personalprojectapp.api
 
 //T refers to WeatherModel
 sealed class NetworkResponse<out T> {

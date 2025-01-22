@@ -1,4 +1,4 @@
-package np.com.example.realtimeweather
+package np.com.example.personalprojectapp
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

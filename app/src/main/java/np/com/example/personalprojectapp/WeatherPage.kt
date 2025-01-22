@@ -139,7 +139,7 @@ fun WeatherDetails(data : WeatherModel) {
             text = data.current.condition.text,
             fontSize = 20.sp,
             textAlign = TextAlign.Center,
-            color = Color.
+            color = Color.Gray
         )
         Spacer(modifier = Modifier.height(16.dp))
         Card {

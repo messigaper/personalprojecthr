@@ -1,4 +1,4 @@
-package np.com.example.realtimeweather.api
+package np.com.example.personalprojectapp.api
 
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory

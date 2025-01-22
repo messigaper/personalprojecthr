@@ -1,4 +1,4 @@
-package np.com.example.realtimeweather.ui.theme
+package np.com.example.personalprojectapp.ui.theme
 
 import android.app.Activity
 import android.os.Build
